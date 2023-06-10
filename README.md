@@ -52,7 +52,7 @@ To use this repository on your machine requires some simple steps
 - Take on the process in ``Alternative One`` above.
 - Remember to replace your username when cloning.
 
-        git clone https://github.com/your-username-here/Pet_Finder.git
+        git clone git@github.com:keowen375/my-app-phase-3.git
         
         
    # Running the application
