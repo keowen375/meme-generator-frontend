@@ -5,7 +5,7 @@
 
 Petfinder is an app that helps you find adoptable pets in your area. With our powerful search tools, you can easily filter through thousands of pets to
 
-find the perfect match for your family. Whether you're looking for a dog,, cat, rabbit, or other furry friend, Petfinder has you covered.
+find the perfect match for your family. Whether you're looking for a dog, cat, rabbit, or other furry friend, Petfinder has you covered.
 
 
  # Setup
