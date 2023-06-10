@@ -30,7 +30,7 @@ To use this repository on your machine requires some simple steps
 - Open a terminal / command line interface on your computer
 - Clone the repository by using the following:
 
-        git clone https:git@github.com:matomugo60/Pet-Finder.git
+        git clone git@github.com:keowen375/my-app-phase-3.git
 
 - Be patient as it creates a copy on your local machine for you.
 - Change directory to the repo folder:
