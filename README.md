@@ -1,70 +1,121 @@
-# Getting Started with Create React App
+# Pet-Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Description
 
-In the project directory, you can run:
+Petfinder is an app that helps you find adoptable pets in your area. With our powerful search tools, you can easily filter through thousands of pets to
 
-### `npm start`
+find the perfect match for your family. Whether you're looking for a dog, cat, rabbit, or other furry friend, Petfinder has you covered.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ # Setup
+ 
+  ## Getting Started
+  
+To use the content on this repository, ensure you have the following:
 
-### `npm test`
+- A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- nodejs 9.0+
 
-### `npm run build`
+- Ruby - 3.1.+
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To use this repository on your machine requires some simple steps
 
-### `npm run eject`
+### Alternative One
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Open a terminal / command line interface on your computer
+- Clone the repository by using the following:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+        git clone https:git@github.com:matomugo60/Pet-Finder.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Be patient as it creates a copy on your local machine for you.
+- Change directory to the repo folder:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+        cd Pet-Finder
+  
 
-## Learn More
+- (Optional) Open it in ``Visual Studio Code``
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+        code .
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- (Alternate Option) Open it in any editor of your choice.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Alternative Two
 
-### Analyzing the Bundle Size
+- On the top right corner of this page there is a button labelled ``Fork``.
+- Click on that button to fork the repository to your own account.
+- Take on the process in ``Alternative One`` above.
+- Remember to replace your username when cloning.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+        git clone https://github.com/your-username-here/Pet_Finder.git
+        
+        
+   # Running the application
+   
+   ### Front-end
 
-### Making a Progressive Web App
+To run the application, you can use the following steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- First, you need to move to the directory with the front-end by using:
 
-### Advanced Configuration
+        cd petfinder-client
+        
+        
+ - To get your application running you need to:
+ 
+        npm install
+        
+        
+ - This will get your app running on the browser
+ 
+        npm start
+        
+        
+    ### Back-end
+    
+ To run the application you need to move to the directory with the backend by
+ 
+        cd ..
+      
+      
+  This will return you to the rooot directory.
+  
+  Then move to the directory with the backend using:
+  
+        cd petfinder-server
+        
+ 
+Install all gems by using:
+ 
+        bundle install
+        
+        
+Then use this to run
+  
+        rackup config.ru
+        
+          
+ You can view data using (https://localhost:9292) 
+ 
+ 
+ ![Screenshot from 2023-03-06 17-35-05](https://user-images.githubusercontent.com/117737586/223140899-21b1c691-9250-422f-ae4f-b54f751aaf8f.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ 
+ 
+ 
+ 
+ 
+# Author & Licence
 
-### Deployment
+Author : Martin Mugo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Licence : permissive MIT licence
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+     
+     
+   
