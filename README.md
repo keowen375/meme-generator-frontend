@@ -12,7 +12,7 @@ find the perfect match for your family. Whether you're looking for a dog, cat, r
  
   ## Getting Started
   
-To use the content on this repository, ensure you have the following::
+To use the content on this repository, ensure you have the following:
 
 - A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
 
