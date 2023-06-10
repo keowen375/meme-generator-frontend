@@ -112,7 +112,7 @@ Then use this to run
  
 # Author & Licence
 
-Author : Martin Mugo
+Author : Michael Owen
 
 Licence : permissive MIT licence
 
