@@ -1,4 +1,4 @@
-# Pet-Finder
+# Pet-Finder.
 
 
 # Description
